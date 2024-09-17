@@ -1,0 +1,18 @@
+git --version
+git config --global user.name "Nama Anda"
+git config --global user.email "email anda"
+git config --list
+git init
+git status
+git add
+git commit -m "Komentar anda"
+git log
+git diff
+git checkout <nama_file>
+git reset
+git revert
+git branch
+PR:
+buat akun github dengan menggunakan akun politala
+gunakan fitur push dengan menggunakan CMD
+Sandi:61th4pp!!
